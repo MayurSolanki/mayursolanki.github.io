@@ -53152,7 +53152,7 @@ return new A.fQ(this.d,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.hb(B.xm,new A.r
 A.C9.prototype={
 Fs(a){var s=null,r=t.w,q=a.O(r).f.a.a<800?a.O(r).f.a.b*0.25:a.O(r).f.a.a*0.25
 r=a.O(r).f.a.a<800?a.O(r).f.a.b*0.25:a.O(r).f.a.a*0.25
-return A.M5(s,s,s,new A.eQ(s,new A.zp(new A.q5("assets/avatar.jpg",s,s),B.tv,B.at),s,s,s,s,B.jV),q,s,s,r)},
+return A.M5(s,s,s,new A.eQ(s,new A.zp(new A.q5("assets/avatarone.jpg",s,s),B.tv,B.at),s,s,s,s,B.jV),q,s,s,r)},
 K(a,b){var s=this.c,r=t.fQ
 return A.Tl(A.u2(A.b([this.Fs(b),s],r),B.ax,B.pP,B.ao),A.LY(A.b([this.Fs(b),A.ip(null,b.O(t.w).f.a.b*0.01+5,null),s],r),B.ax,B.pO,B.ao))}}
 A.Sy.prototype={
