@@ -53156,7 +53156,7 @@ return A.M5(s,s,s,new A.eQ(s,new A.zp(new A.q5("assets/avatar.jpg",s,s),B.tv,B.a
 K(a,b){var s=this.c,r=t.fQ
 return A.Tl(A.u2(A.b([this.Fs(b),s],r),B.ax,B.pP,B.ao),A.LY(A.b([this.Fs(b),A.ip(null,b.O(t.w).f.a.b*0.01+5,null),s],r),B.ax,B.pO,B.ao))}}
 A.Sy.prototype={
-$0(){$.cn().bX("open",["https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:f8357a2b-846a-416d-b1fc-f4096821b0f3"])},
+$0(){$.cn().bX("open",["https://MayurSolanki.github.io/resume-pdf/Mayur_Solanki_Resume.pdf"])},
 $S:1}
 A.DB.prototype={
 K(a,b){var s="Linkedin",r="https://i.ibb.co/xs7F2p7/linkedin.png",q=null,p="https://i.ibb.co/cvnPS6W/medium.png",o="Instagram",n="https://i.ibb.co/6RVhhNZ/instagram.png",m="https://i.ibb.co/mR3JLtL/github.png",l="https://i.ibb.co/t4x65wN/twitter.png",k="Facebook",j="https://i.ibb.co/7nGTFHR/facebook.png",i="whatsapp",h="https://i.ibb.co/fQW0cNC/whatsapp.png",g="https://i.ibb.co/SP5LRJm/gmail.png",f=t.fQ
